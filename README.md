@@ -42,7 +42,7 @@ Each colored bar plays a different musical note when tapped, making it the perfe
 ## 🖼️ Screenshots
 
 
-  <img src="https://i.ibb.co/7RbwXnT/xylophone-screenshot1.png" alt="Screenshot 1"  />
+  <img src="image.png" alt="Screenshot 1"  />
 
 </p>
 
